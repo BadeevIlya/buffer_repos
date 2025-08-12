@@ -1,0 +1,11 @@
+account_id,figi,ticker,name,instrument_type,balance,avg_position_price,currency,expected_yield
+2048674341,BBG000R607Y3,PLZL,Полюс,share,20.0,1758.0,rub,1.0
+2048674341,TCS20A107597,TLCB@,Локальные валютные облигации,etf,6500.0,9.0,rub,1.0
+2048674341,BBG004731489,GMKN,Норильский никель,share,340.0,126.0,rub,1.0
+2048674341,RUB000UTSTOM,RUB000UTSTOM,Российский рубль,currency,58599.52,1.0,rub,1.0
+2048674341,TCS00A10B4K3,RU000A10B4K3,ГМК Норильский никель БО-001Р-08-USD,bond,3.0,8108.0,rub,1.0
+2048674341,TCS00A10ANA1,CNRU,Циан,share,20.0,569.0,rub,1.0
+2048674341,TCS00A106YF0,VKCO,ВК,share,77.0,324.0,rub,1.0
+2048674341,BBG004RVFCY3,MGNT,Магнит,share,37.0,3928.0,rub,1.0
+2048674341,TCS00A10AXW4,RU000A10AXW4,СИБУР ХОЛДИНГ 001Р-03 USD,bond,5.0,8348.0,rub,1.0
+2048674341,BBG004730N88,SBER,Сбер Банк,share,100.0,317.0,rub,1.0
