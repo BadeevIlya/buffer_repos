@@ -4,7 +4,7 @@ account_id,figi,ticker,name,instrument_type,balance,avg_position_price,currency,
 2048674341,TCS20A107597,TLCB@,Локальные валютные облигации,etf,10468.0,9.0,rub,0.0
 2048674341,TCS70A106DL2,TMON@,Денежный рынок,etf,815.0,143.0,rub,0.0
 2048674341,BBG004731489,GMKN,Норильский никель,share,210.0,127.0,rub,0.0
-2048674341,RUB000UTSTOM,RUB000UTSTOM,Российский рубль,currency,63.01,1.0,rub,0.0
+2048674341,RUB000UTSTOM,RUB000UTSTOM,Российский рубль,currency,572.28,1.0,rub,0.0
 2048674341,TCS00A10B4K3,RU000A10B4K3,ГМК Норильский никель БО-001Р-08-USD,bond,5.0,8291.0,rub,0.0
 2048674341,TCS70A10A1L8,TOFZ@,Государственные облигации,etf,4138.0,13.0,rub,0.0
 2048674341,TCS00A10AXW4,RU000A10AXW4,СИБУР ХОЛДИНГ 001Р-03 USD,bond,4.0,8486.0,rub,0.0
