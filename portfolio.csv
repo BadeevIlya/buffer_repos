@@ -8,8 +8,8 @@ account_id,figi,ticker,name,instrument_type,balance,avg_position_price,currency,
 2048674341,BBG004730ZJ9,VTBR,Банк ВТБ,share,863.0,69.0,rub,0.0
 2048674341,RUB000UTSTOM,RUB000UTSTOM,Российский рубль,currency,-530.6,1.0,rub,0.0
 2048674341,TCS00A106UW3,RU000A106UW3,Делимобиль 1Р-03,bond,70.0,914.0,rub,0.0
-2048674341,TCS00A10AXW4,RU000A10AXW4,СИБУР ХОЛДИНГ 001Р-03 USD,bond,5.0,8172.0,rub,0.0
+2048674341,TCS00A10AXW4,RU000A10AXW4,СИБУР ХОЛДИНГ 001Р-03 USD,bond,5.0,8147.0,rub,0.0
 2048674341,TCS00A10BW96,RU000A10BW96,ГК Самолет БО-П18,bond,56.0,1122.0,rub,0.0
 2048674341,BBG004730N88,SBER,Сбер Банк,share,105.0,308.0,rub,0.0
 2048674341,TCS60A101X76,TMOS@,Крупнейшие компании РФ,etf,9829.0,6.0,rub,0.0
-2048674341,TCS00A10CLW5,SIBN6P3,Газпром Нефть 006Р-03,bond,6.0,7743.0,rub,0.0
+2048674341,TCS00A10CLW5,SIBN6P3,Газпром Нефть 006Р-03,bond,6.0,7719.0,rub,0.0
